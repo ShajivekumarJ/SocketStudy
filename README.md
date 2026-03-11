@@ -104,11 +104,9 @@ client_socket.close()
 
 ## OUTPUT:
 SERVER.PY
-
-![alt text](CLINENT.png)
+![alt text](SERVER1.png)
 
 CLINENT.PY
-
-![alt text](SERVER.png)
+![alt text](CLINENT1.png)
 ## Result:
 Thus the study of Socket Programming Completed Successfully
