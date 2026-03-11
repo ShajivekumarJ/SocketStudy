@@ -104,8 +104,11 @@ client_socket.close()
 
 ## OUTPUT:
 SERVER.PY
+
 ![alt text](CLINENT.png)
+
 CLINENT.PY
+
 ![alt text](SERVER.png)
 ## Result:
 Thus the study of Socket Programming Completed Successfully
